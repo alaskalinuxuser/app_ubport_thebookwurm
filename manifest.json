@@ -1,0 +1,15 @@
+{
+    "name": "thebookwurm.com",
+    "description": "Bible study and reference material.",
+    "architecture": "all",
+    "title": "TheBookWurm",
+    "hooks": {
+        "TheBookWurm": {
+            "apparmor": "TheBookWurm.apparmor",
+            "desktop":  "TheBookWurm.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Alaskalinuxuser <alaskalinuxuser@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
