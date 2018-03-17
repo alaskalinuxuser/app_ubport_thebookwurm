@@ -9,7 +9,7 @@
             "desktop":  "TheBookWurm.desktop"
         }
     },
-    "version": "1.0.3",
+    "version": "1.0.5",
     "maintainer": "Alaskalinuxuser <alaskalinuxuser@gmail.com>",
     "framework" : "ubuntu-sdk-15.04.6"
 }
