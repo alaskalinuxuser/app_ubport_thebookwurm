@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=TheBookWurm
 Exec=webapp-container --app-id="thebookwurm.alaskalinuxuser" $@ www/index.html
-Icon=www/assets/logo.svg
+Icon=www/assets/logo.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
