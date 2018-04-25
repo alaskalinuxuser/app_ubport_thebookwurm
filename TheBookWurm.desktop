@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=TheBookWurm
-Exec=webapp-container --app-id="thebookwurm.alaskalinuxuser" $@ www/index.html
+Exec=webapp-container --app-id="thebookwurm.alaskalinuxuser" $@ www/go_book.htm
 Icon=www/assets/logo.png
 Terminal=false
 Type=Application
